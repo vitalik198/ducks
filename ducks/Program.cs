@@ -21,6 +21,7 @@ namespace ducks
             Console.WriteLine("\n");
             rezDuck.display();
             Console.ReadLine();
+
         }
     }
 }
